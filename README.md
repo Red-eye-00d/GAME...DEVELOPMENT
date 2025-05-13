@@ -1,21 +1,26 @@
-EX 8 : THREE DIMENSIONAL IMAGE PROJECTIONS
-AIM :
-To implement the projections in three dimensional image using a C coding.
+# EX 8 : THREE DIMENSIONAL IMAGE PROJECTIONS
 
-ALGORITHM :
-Step 1 : start.
+## AIM :
+    
+  To implement the projections in three dimensional image using a C coding.
 
-Step 2 : Draw any image in the three dimensional plane.
 
-Step 3 : Get the choice of axis as input from the user.
+## ALGORITHM :
 
-Step 4 : Perform the projection about the desired axis.
+   Step 1 : start.
 
-Step 5 : Display the projected image.
+   Step 2 : Draw any image in the three dimensional plane.
 
-Step 6 : Stop.
+   Step 3 : Get the choice of axis as input from the user.
 
-Program :
+   Step 4 : Perform the projection about the desired axis.
+
+   Step 5 : Display the projected image.
+
+   Step 6 : Stop.
+
+## Program :
+```
 #include<stdio.h> 
 #include<math.h> 
 #include<conio.h> 
@@ -111,14 +116,19 @@ closegraph();
 }
 
 Program to implement the projections in three dimensional image using a C coding.
-DEVELOPED BY: SUDHARSANAN U 
+DEVELOPED BY: SUDHARSANAN U
 REGISTER NUMBER: 212224230276
-Output :
-image
+```
 
-image
+## Output :
 
-image
+![image](https://github.com/user-attachments/assets/35cfe474-ca30-4dcc-a555-3e4d95bb29f3)
 
-Result :
+![image](https://github.com/user-attachments/assets/49d14a50-f16f-42e6-b385-2d8e0b1a2fbb)
+
+![image](https://github.com/user-attachments/assets/537ff2d4-bb98-44d0-8698-5c66f6f7d515)
+
+
+## Result :
+
 Thus, the C program for performing perspective projections of a 3D object along the X, Y, and Z axes was successfully implemented. The output images demonstrate the effect of projecting the 3D object onto different planes based on user input.
