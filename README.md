@@ -111,7 +111,7 @@ closegraph();
 }
 
 Program to implement the projections in three dimensional image using a C coding.
-DEVELOPED BY: SUDHARSANAN U
+DEVELOPED BY: SUDHARSANAN U 
 REGISTER NUMBER: 212224230276
 Output :
 image
